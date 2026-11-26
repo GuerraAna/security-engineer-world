@@ -16,6 +16,8 @@ educacional — técnicas de ataque aparecem no contexto de detecção/defesa.
 npm install        # dependências
 npm start          # dev server (porta 3000, baseUrl /security-engineer-world/)
 npm run build      # build de produção — rodar antes de commitar para validar
+                   # NÃO usar `| tail` — o pipe retorna o status do tail e
+                   # mascara falhas do build (usar `> /tmp/build.log` ou nada)
 npm run serve      # serve o build localmente
 npm run typecheck  # checa TS
 ```
