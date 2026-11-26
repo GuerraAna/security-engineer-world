@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Fundamentos e Práticas Essenciais de Segurança
-sidebar_label: 🔐 Fundamentos e práticas
+sidebar_label: 🔐  Fundamentos e práticas
 description: Ativos, tríade CID, ciclo de vida da informação e responsabilidade compartilhada
 ---
 

@@ -26,6 +26,8 @@ npm run typecheck  # checa TS
 - Níveis futuros não têm pasta — ficam "locked" no array `segments` em
   `src/pages/index.tsx` até a etapa começar
 - Páginas usam `sidebar_label` com emoji; título limpo no `title`
+- Após o emoji do label, incluir thin space (U+2009) antes do espaço —
+  `🛡️  Foundation` — para o ícone não colar no texto
 - Seção "O que anotar depois" ao final das páginas como checklist de estudo
 - Seção "Referências oficiais" ao final de TODA página com links canônicos
 - Front matter com dois-pontos no `title` precisa de aspas (YAML)
@@ -45,6 +47,8 @@ npm run typecheck  # checa TS
   sidebar mobile precisam de override explícito (ver seção mobile no CSS)
 - Todo elemento novo precisa funcionar nos dois temas (light e dark)
 - XP dos cards: `index.module.css` nth-child — atualizar conforme a trilha avança
+- Sidebar: respiro via `--ifm-menu-link-padding-vertical/horizontal` +
+  margin entre `.menu__list-item` (ver seção Sidebar no custom.css)
 
 ## Pegadinhas responsivas (herdadas do react-native-world, 2026-11)
 

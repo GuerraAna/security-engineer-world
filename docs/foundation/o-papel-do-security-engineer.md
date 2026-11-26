@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: O papel do Security Engineer
-sidebar_label: 🧭 O papel do Security Engineer
+sidebar_label: 🧭  O papel do Security Engineer
 description: O que é o papel, objetivos, responsabilidades e a jornada de desenvolvimento seguro
 ---
 

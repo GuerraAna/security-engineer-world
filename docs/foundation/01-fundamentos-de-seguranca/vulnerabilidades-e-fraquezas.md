@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Vulnerabilidades e Fraquezas
-sidebar_label: 🕳️ Vulnerabilidades e fraquezas
+sidebar_label: 🕳️  Vulnerabilidades e fraquezas
 description: Diferença entre fraqueza e vulnerabilidade, o papel de CWE, CVE e CVSS e a gestão de vulnerabilidades
 ---
 

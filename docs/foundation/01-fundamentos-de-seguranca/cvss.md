@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: "CVSS: Common Vulnerability Scoring System"
-sidebar_label: 📊 CVSS
+sidebar_label: 📊  CVSS
 description: Sistema de pontuação de severidade de vulnerabilidades — métricas, limitações e priorização
 ---
 

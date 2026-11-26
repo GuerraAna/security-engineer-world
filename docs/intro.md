@@ -2,7 +2,7 @@
 sidebar_position: 1
 slug: /intro
 title: Introdução
-sidebar_label: 👋 Introdução
+sidebar_label: 👋  Introdução
 description: Ponto de partida da trilha de Security Engineering
 ---
 

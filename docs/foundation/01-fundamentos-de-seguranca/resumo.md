@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 title: Resumo dos Fundamentos de Segurança da Informação
-sidebar_label: 📝 Resumo
+sidebar_label: 📝  Resumo
 description: Consolidação dos fundamentos — ativos, CID, fraquezas, vulnerabilidades, CWE, CVE e CVSS
 ---
 
