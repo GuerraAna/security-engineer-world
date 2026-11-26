@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: "Desenvolvimento Seguro e Shift Left"
-sidebar_label: 🔐  Shift Left
+title: "Desenvolvimento Seguro e Shift Left: Segurança desde o Início"
+sidebar_label: 🔐  Desenvolvimento Seguro e Shift Left: Segurança desde o Início
 description: Segurança desde o início do ciclo de desenvolvimento — requisitos com DNA de segurança e modelagem de ameaças
 ---
 
