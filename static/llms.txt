@@ -17,7 +17,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [Fundamentos e Práticas Essenciais](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/fundamentos-e-praticas-essenciais): Ativos, tríade CID, ciclo de vida da informação e responsabilidade compartilhada.
 - [Vulnerabilidades e Fraquezas](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/vulnerabilidades-e-fraquezas): Fraqueza vs vulnerabilidade, CWE, CVE, CVSS e gestão de vulnerabilidades.
 - [CVSS](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/cvss): Sistema de pontuação de severidade — métricas, limitações e priorização com contexto.
-- [Resumo](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/resumo): Consolidação dos fundamentos — CID, fraquezas, CWE/CVE/CVSS.
+- [Resumo](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/resumo): Revisão — vulnerabilidade × ameaça × impacto × risco, CWE/CVE/CVSS, tratamento e aceitação de risco, SLA e papéis segurança × negócio.
 
 ## Fontes oficiais
 

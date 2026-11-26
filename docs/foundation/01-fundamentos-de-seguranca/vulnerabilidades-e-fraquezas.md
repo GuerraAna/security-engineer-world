@@ -226,6 +226,10 @@ A priorização deve considerar **não apenas o CVSS**, mas também o contexto d
 A nota técnica é igualmente importante, mas **exposição e criticidade do ativo** definem o risco real.
 :::
 
+:::info Aprofundando
+Os conceitos de **ameaça, impacto, risco**, as **5 opções de tratamento de risco** e **SLA de correção** são detalhados no [Resumo](./resumo).
+:::
+
 ## Importância para desenvolvimento seguro
 
 Para equipes de desenvolvimento, a combinação CWE + CVE + CVSS é essencial:
