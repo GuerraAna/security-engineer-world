@@ -24,6 +24,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [Integrando Segurança desde o Início](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-integrando-seguranca-desde-o-inicio): Shift Left — segurança desde a ideação, requisitos com DNA de segurança, modelagem de ameaças, STRIDE e PASTA.
 - [Arquitetura, Design e Modelagem de Ameaças](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-arquitetura-design-e-modelagem): DFD, STRIDE, mitigações e requisitos de segurança funcionais × não funcionais.
 - [Dev Experience e Práticas Preventivas](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-developer-experience-e-praticas-preventivas): Segurança no dia a dia do dev — pre-commit hooks, linters, code review e políticas de repositório.
+- [Secret Manager (Vaults)](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-secret-manager): Gerenciamento de segredos — Vaults, separação do código, rotação e controle de acesso.
 
 ## Fontes oficiais
 
