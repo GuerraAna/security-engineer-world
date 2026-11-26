@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: "Desenvolvimento Seguro e Shift Left: Segurança desde o Início"
-sidebar_label: 🔐  Desenvolvimento Seguro e Shift Left: Segurança desde o Início
-description: Segurança desde o início do ciclo de desenvolvimento — requisitos com DNA de segurança e modelagem de ameaças
+title: "Integrando Segurança desde o Início"
+sidebar_label: "🔐  Integrando Segurança desde o Início"
+description: Shift Left — segurança desde o início do ciclo de desenvolvimento, requisitos com DNA de segurança e modelagem de ameaças
 ---
 
-# Desenvolvimento Seguro e Shift Left: Segurança desde o Início
+# Integrando Segurança desde o Início
 
 :::note Origem do conteúdo
 Treinamento Security Engineer : por que antecipar segurança para o início do ciclo de desenvolvimento, como a modelagem de ameaças se encaixa nos requisitos e os benefícios de nascer seguro em vez de corrigir depois.
