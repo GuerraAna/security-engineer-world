@@ -1,6 +1,6 @@
 # Security Engineer World
 
-> Documentação pessoal de estudos de Security Engineering, organizada pelas etapas de um treinamento (Foundation → Trainee → Expert → Master), complementada pelas documentações oficiais de cada tema. Conteúdo defensivo e educacional.
+> Documentação pessoal de estudos de Security Engineering, organizada pelas etapas do treinamento  (Foundation → Trainee → Expert → Master), complementada pelas documentações oficiais de cada tema. Conteúdo defensivo e educacional.
 
 Site: https://guerraana.github.io/security-engineer-world/
 
@@ -10,7 +10,14 @@ Site: https://guerraana.github.io/security-engineer-world/
 
 ## Foundation
 
-- [Visão geral](https://guerraana.github.io/security-engineer-world/docs/foundation/visao-geral): Índice da primeira etapa do treinamento — em construção.
+- [O papel do Security Engineer](https://guerraana.github.io/security-engineer-world/docs/foundation/o-papel-do-security-engineer): Objetivo, responsabilidades e a jornada de desenvolvimento seguro em 7 momentos.
+
+### 01 — Fundamentos de Segurança
+
+- [Fundamentos e Práticas Essenciais](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/fundamentos-e-praticas-essenciais): Ativos, tríade CID, ciclo de vida da informação e responsabilidade compartilhada.
+- [Vulnerabilidades e Fraquezas](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/vulnerabilidades-e-fraquezas): Fraqueza vs vulnerabilidade, CWE, CVE, CVSS e gestão de vulnerabilidades.
+- [CVSS](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/cvss): Sistema de pontuação de severidade — métricas, limitações e priorização com contexto.
+- [Resumo](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/resumo): Consolidação dos fundamentos — CID, fraquezas, CWE/CVE/CVSS.
 
 ## Fontes oficiais
 
@@ -18,3 +25,6 @@ Site: https://guerraana.github.io/security-engineer-world/
 - NIST CSF: https://www.nist.gov/cyberframework
 - MITRE ATT&CK: https://attack.mitre.org
 - CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks
+- CVE: https://www.cve.org
+- CWE: https://cwe.mitre.org
+- CVSS (FIRST): https://www.first.org/cvss/

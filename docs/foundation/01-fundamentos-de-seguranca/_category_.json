@@ -1,0 +1,10 @@
+{
+  "label": "📘 01 · Fundamentos de Segurança",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "01 — Fundamentos de Segurança",
+    "description": "Primeiro bloco da Foundation: ativos, tríade CID, fraquezas, vulnerabilidades, CWE, CVE e CVSS.",
+    "slug": "/foundation/fundamentos-de-seguranca"
+  }
+}

@@ -4,7 +4,7 @@
   "link": {
     "type": "generated-index",
     "title": "Foundation",
-    "description": "Primeira etapa do treinamento: fundamentos de segurança da informação, redes, sistemas operacionais e o mindset de segurança.",
+    "description": "Primeira etapa do treinamento Security Engineer: fundamentos de segurança da informação, vulnerabilidades, threat modeling, identidade, dados, codificação segura, testes, infraestrutura e operação.",
     "slug": "/foundation"
   }
 }
