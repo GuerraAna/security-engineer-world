@@ -22,6 +22,7 @@ npm run typecheck  # checa tipos TS
 docs/                             # conteúdo (markdown) — cada pasta = um segmento na sidebar
   foundation/                     # etapa 1 do treinamento (até 2028)
     01-fundamentos-de-seguranca/  # ativos, CID, fraquezas, CWE/CVE/CVSS
+    02-shift-left/                # segurança desde a ideação, threat modeling
 src/pages/index.tsx               # homepage (cards LVL — desbloquear conforme a trilha avança)
 docusaurus.config.ts              # configuração do site
 sidebars.ts                       # sidebar (autogerada a partir de docs/)

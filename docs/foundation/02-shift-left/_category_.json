@@ -1,0 +1,10 @@
+{
+  "label": "⏪  02 · Shift Left",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "title": "02 — Shift Left",
+    "description": "Segundo bloco da Foundation: segurança desde o início do ciclo de desenvolvimento, requisitos com DNA de segurança e modelagem de ameaças.",
+    "slug": "/foundation/shift-left"
+  }
+}

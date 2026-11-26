@@ -19,6 +19,10 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [CVSS](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/cvss): Sistema de pontuação de severidade — métricas, limitações e priorização com contexto.
 - [Resumo](https://guerraana.github.io/security-engineer-world/docs/foundation/fundamentos-de-seguranca/resumo): Revisão — vulnerabilidade × ameaça × impacto × risco, CWE/CVE/CVSS, tratamento e aceitação de risco, SLA e papéis segurança × negócio.
 
+### 02 — Shift Left
+
+- [Desenvolvimento Seguro e Shift Left](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/shift-left): Segurança desde a ideação — requisitos com DNA de segurança, modelagem de ameaças, STRIDE e PASTA.
+
 ## Fontes oficiais
 
 - OWASP: https://owasp.org
