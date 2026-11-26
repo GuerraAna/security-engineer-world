@@ -1,0 +1,20 @@
+# Security Engineer World
+
+> Documentação pessoal de estudos de Security Engineering, organizada pelas etapas de um treinamento (Foundation → Trainee → Expert → Master), complementada pelas documentações oficiais de cada tema. Conteúdo defensivo e educacional.
+
+Site: https://guerraana.github.io/security-engineer-world/
+
+## Introdução
+
+- [Introdução](https://guerraana.github.io/security-engineer-world/docs/intro): Visão geral da trilha e organização por níveis.
+
+## Foundation
+
+- [Visão geral](https://guerraana.github.io/security-engineer-world/docs/foundation/visao-geral): Índice da primeira etapa do treinamento — em construção.
+
+## Fontes oficiais
+
+- OWASP: https://owasp.org
+- NIST CSF: https://www.nist.gov/cyberframework
+- MITRE ATT&CK: https://attack.mitre.org
+- CIS Benchmarks: https://www.cisecurity.org/cis-benchmarks
