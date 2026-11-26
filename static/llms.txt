@@ -22,6 +22,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 ### 02 — Shift Left
 
 - [Integrando Segurança desde o Início](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-integrando-seguranca-desde-o-inicio): Shift Left — segurança desde a ideação, requisitos com DNA de segurança, modelagem de ameaças, STRIDE e PASTA.
+- [Arquitetura, Design e Modelagem de Ameaças](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-arquitetura-design-e-modelagem): DFD, STRIDE, mitigações e requisitos de segurança funcionais × não funcionais.
 
 ## Fontes oficiais
 
