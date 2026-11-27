@@ -32,6 +32,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [DAST e IAST](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-dast-e-iast): Testes dinâmico e interativo — DAST caixa preta via HTTP, IAST caixa cinza via agente, ferramentas e recomendações.
 - [Pentest Contínuo](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-pentest-continuo): Pentest integrado à sprint — testes por funcionalidade, ambiente SQA, validação manual e o Pentester no time.
 - [Segurança em Produção](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-seguranca-em-producao-monitoramento-e-alertas): Proteção em runtime — RASP e WAF, monitoramento contínuo, alertas por baseline e boas práticas de logs.
+- [Gestão de Vulnerabilidades e KPIs](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-gestao-de-vulnerabilidades-e-kpis): Vulnerability management contínuo — centralização de achados, workflow de triagem/correção e KPIs como MTTR.
 
 ## Fontes oficiais
 
