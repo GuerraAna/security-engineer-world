@@ -1,0 +1,10 @@
+{
+  "label": "🚦  03 · Classificação de Risco",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "title": "03 — Classificação de Risco",
+    "description": "Terceiro bloco da Foundation: classificação de risco — probabilidade × impacto × criticidade do ativo, SLAs de correção, risco aceitável e ferramentas de apoio.",
+    "slug": "/foundation/classificacao-de-risco"
+  }
+}

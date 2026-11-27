@@ -34,6 +34,10 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [Segurança em Produção](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-seguranca-em-producao-monitoramento-e-alertas): Proteção em runtime — RASP e WAF, monitoramento contínuo, alertas por baseline e boas práticas de logs.
 - [Gestão de Vulnerabilidades e KPIs](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-gestao-de-vulnerabilidades-e-kpis): Vulnerability management contínuo — centralização de achados, workflow de triagem/correção e KPIs como MTTR.
 
+### 03 — Classificação de Risco
+
+- [Conceitos e Exemplos](https://guerraana.github.io/security-engineer-world/docs/foundation/classificacao-de-risco/conceitos-e-exemplos): Classificação de risco — probabilidade × impacto × criticidade do ativo, SLAs de correção e risco aceitável.
+
 ## Fontes oficiais
 
 - OWASP: https://owasp.org
