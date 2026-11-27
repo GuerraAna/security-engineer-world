@@ -30,6 +30,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [IaC e Segurança](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-iac-infrastructure-as-code-e-seguranca): Infrastructure as Code — Security Misconfiguration, scanners estáticos (KICS, Checkov) e integração em IDE/CI/CD.
 - [Post-Build no CI/CD](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-post-build-no-ci-cd): Verificações pós-compilação — Container Scan, Supply Chain Security, Scan de Malware e Assinatura de Código.
 - [DAST e IAST](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-dast-e-iast): Testes dinâmico e interativo — DAST caixa preta via HTTP, IAST caixa cinza via agente, ferramentas e recomendações.
+- [Pentest Contínuo](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-pentest-continuo): Pentest integrado à sprint — testes por funcionalidade, ambiente SQA, validação manual e o Pentester no time.
 
 ## Fontes oficiais
 
