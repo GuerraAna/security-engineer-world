@@ -31,6 +31,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [Post-Build no CI/CD](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-post-build-no-ci-cd): Verificações pós-compilação — Container Scan, Supply Chain Security, Scan de Malware e Assinatura de Código.
 - [DAST e IAST](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-dast-e-iast): Testes dinâmico e interativo — DAST caixa preta via HTTP, IAST caixa cinza via agente, ferramentas e recomendações.
 - [Pentest Contínuo](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-pentest-continuo): Pentest integrado à sprint — testes por funcionalidade, ambiente SQA, validação manual e o Pentester no time.
+- [Segurança em Produção](https://guerraana.github.io/security-engineer-world/docs/foundation/shift-left/llm-seguranca-em-producao-monitoramento-e-alertas): Proteção em runtime — RASP e WAF, monitoramento contínuo, alertas por baseline e boas práticas de logs.
 
 ## Fontes oficiais
 
