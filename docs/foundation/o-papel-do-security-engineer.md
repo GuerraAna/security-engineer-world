@@ -120,7 +120,7 @@ A base de conhecimento do Security Engineer no módulo Foundation cobre:
 
 - Políticas internas regem prazos, fluxos e exigências — desenvolvimento seguro, testes dinâmicos/pentest, patches, incidentes e riscos iminentes, hardening;
 - Ferramentas, secret managers, baselines e produtos internos devem seguir os padrões **homologados**;
-- **Importante:** este material é educacional e de consulta. Políticas, nomes de produtos e fluxos mudam — sempre consulte a versão oficial vigente.
+- **Importante:** este material é educacional e de consulta — práticas e ferramentas evoluem; sempre confira as fontes oficiais atuais.
 
 ## A mentalidade do Security Engineer
 

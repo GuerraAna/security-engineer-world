@@ -109,7 +109,7 @@ Risco aceito deve ser **decisão formal e documentada** — com justificativa, r
 
 - [ ] Definir a matriz probabilidade × impacto que usarei para classificar achados
 - [ ] Criar a tabela de SLA por nível de risco do meu contexto
-- [ ] Conhecer o DefectDojo e o SD Elements (próxima aula)
+- [ ] Conhecer o DefectDojo e o SD Elements (próximo tema)
 - [ ] Montar o inventário de ativos que preciso proteger
 - [ ] Documentar um exemplo de risco aceito com justificativa formal
 

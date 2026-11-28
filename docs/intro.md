@@ -21,9 +21,9 @@ Documentação pessoal de estudos da **trilha de Security Engineering**, organiz
 
 ## Como este guia está organizado
 
-Cada etapa do treinamento é uma pasta em `docs/` e um segmento na sidebar. Dentro de cada nível, as páginas agrupam os temas estudados, sempre com:
+Cada etapa da trilha é uma pasta em `docs/` e um segmento na sidebar. Dentro de cada nível, as páginas agrupam os temas estudados, sempre com:
 
-- **Explicação** do conceito com base no treinamento e nas documentações oficiais
+- **Explicação** do conceito com base nas documentações oficiais de cada tema e em boas práticas de mercado
 - **Exemplos práticos** (comandos, configs, trechos de código)
 - **"O que anotar depois"**: checklist do que revisar/aprofundar
 - **"Referências oficiais"**: links canônicos ao final de toda página

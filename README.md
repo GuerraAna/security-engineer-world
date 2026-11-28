@@ -18,7 +18,7 @@ Foundation → Trainee → Expert → Master
 
 ## 📖 Sobre
 
-Site estático construído com [Docusaurus](https://docusaurus.io), com tema de **jornada/game**: cada etapa do treinamento é um nível (LVL) que desbloqueia conforme a trilha avança até 2028.
+Site estático construído com [Docusaurus](https://docusaurus.io), com tema de **jornada/game**: cada etapa da trilha é um nível (LVL) que desbloqueia conforme a trilha avança até 2028.
 
 Conteúdo **defensivo e educacional** — técnicas de ataque aparecem apenas no contexto de detecção e defesa.
 
@@ -53,7 +53,7 @@ npm run typecheck  # checa tipos TS
 
 ```
 docs/                                # conteúdo (markdown) — cada pasta = um segmento na sidebar
-  foundation/                        # etapa 1 do treinamento (até 2028)
+  foundation/                        # etapa 1 da trilha (até 2028)
     01-fundamentos-de-seguranca/     # ativos, CID, fraquezas, CWE/CVE/CVSS
     02-shift-left/                   # segurança desde a ideação até produção
     03-classificacao-de-risco/       # classificação, SLAs e ferramentas de gestão
@@ -66,7 +66,7 @@ sidebars.ts                          # sidebar (autogerada a partir de docs/)
 
 ## ✍️ Convenções de conteúdo
 
-- Cada etapa do treinamento = uma pasta em `docs/` (blocos numerados `NN-nome`)
+- Cada etapa da trilha = uma pasta em `docs/` (blocos numerados `NN-nome`)
 - `sidebar_label` com emoji + thin space; `title` limpo no front matter
 - Callouts `:::tip` / `:::important` / `:::warning` para pontos-chave
 - `<Tabs>` / `<TabItem>` para código comparativo (inseguro × seguro)
