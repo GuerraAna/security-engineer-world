@@ -37,6 +37,7 @@ Site: https://guerraana.github.io/security-engineer-world/
 ### 03 — Classificação de Risco
 
 - [Conceitos e Exemplos](https://guerraana.github.io/security-engineer-world/docs/foundation/classificacao-de-risco/conceitos-e-exemplos): Classificação de risco — probabilidade × impacto × criticidade do ativo, SLAs de correção e risco aceitável.
+- [DefectDojo e SD Elements](https://guerraana.github.io/security-engineer-world/docs/foundation/classificacao-de-risco/defectdojo-e-sd-elements): Gestão de riscos — DefectDojo (open source) centraliza achados com SLA; SD Elements estrutura threat modeling e compliance.
 
 ## Fontes oficiais
 
