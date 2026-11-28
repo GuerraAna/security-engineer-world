@@ -8,7 +8,7 @@ description: Ponto de partida da trilha de Security Engineering
 
 # Security Engineer World
 
-Documentação pessoal de estudos da **trilha de Security Engineering** , organizada pelas etapas: **Foundation → Trainee → Expert → Master**.
+Documentação pessoal de estudos da **trilha de Security Engineering**, organizada pelas etapas: **Foundation → Trainee → Expert → Master**.
 
 ## A trilha
 

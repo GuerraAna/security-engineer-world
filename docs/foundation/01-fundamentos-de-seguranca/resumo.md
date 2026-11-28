@@ -8,7 +8,7 @@ description: Revisão — vulnerabilidade × ameaça × impacto × risco, CVE/CW
 # Resumo dos Fundamentos de Segurança da Informação
 
 :::note Origem do conteúdo
-Aula de resumo e revisão — Treinamento Security Engineer : fundamentos de SI, relação vulnerabilidade × ameaça × impacto × risco, CVE/CWE/CVSS, tratamento e aceitação de risco, SLA e a divisão de responsabilidades entre segurança e negócio.
+Resumo e revisão — fundamentos de SI, relação vulnerabilidade × ameaça × impacto × risco, CVE/CWE/CVSS, tratamento e aceitação de risco, SLA e a divisão de responsabilidades entre segurança e negócio.
 :::
 
 ## O objetivo da Segurança da Informação

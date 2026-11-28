@@ -3,7 +3,7 @@
 # 🛡️ Security Engineer World
 
 **Documentação pessoal de estudos da trilha de Security Engineering**
-Foundation → Trainee → Expert → Master · treinamento 
+Foundation → Trainee → Expert → Master
 
 [![Site](https://img.shields.io/badge/site-guerraana.github.io-7C3AED?style=for-the-badge)](https://guerraana.github.io/security-engineer-world/)
 [![Deploy](https://img.shields.io/github/actions/workflow/status/GuerraAna/security-engineer-world/deploy.yml?branch=main&style=for-the-badge&label=deploy)](https://github.com/GuerraAna/security-engineer-world/actions/workflows/deploy.yml)

@@ -8,7 +8,7 @@ description: O que é o papel, objetivos, responsabilidades e a jornada de desen
 # O papel do Security Engineer
 
 :::note Origem do conteúdo
-Módulo Foundation — Treinamento Security Engineer .
+Notas de estudo — bloco Foundation da trilha de Security Engineering.
 :::
 
 O **Security Engineer** (Engenheiro de Segurança) é o profissional responsável por incorporar segurança ao ciclo de vida das soluções de tecnologia — da ideação à operação em produção.

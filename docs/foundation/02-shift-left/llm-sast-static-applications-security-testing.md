@@ -8,7 +8,7 @@ description: Análise estática de segurança — detecção de vulnerabilidades
 # SAST — Static Application Security Testing
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : o que é SAST, como funciona a detecção de vulnerabilidades sem executar o código, onde se encaixa no CI/CD, ferramentas do mercado, vantagens e limitações.
+Notas de estudo — o que é SAST, como funciona a detecção de vulnerabilidades sem executar o código, onde se encaixa no CI/CD, ferramentas do mercado, vantagens e limitações.
 :::
 
 ## Contexto: SAST dentro do AST

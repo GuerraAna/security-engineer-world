@@ -8,7 +8,7 @@ description: Shift Left — segurança desde o início do ciclo de desenvolvimen
 # Integrando Segurança desde o Início
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : por que antecipar segurança para o início do ciclo de desenvolvimento, como a modelagem de ameaças se encaixa nos requisitos e os benefícios de nascer seguro em vez de corrigir depois.
+Notas de estudo — por que antecipar segurança para o início do ciclo de desenvolvimento, como a modelagem de ameaças se encaixa nos requisitos e os benefícios de nascer seguro em vez de corrigir depois.
 :::
 
 ## O que é Shift Left

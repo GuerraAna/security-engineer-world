@@ -1,6 +1,6 @@
 # Security Engineer World
 
-> Documentação pessoal de estudos de Security Engineering, organizada pelas etapas do treinamento  (Foundation → Trainee → Expert → Master), complementada pelas documentações oficiais de cada tema. Conteúdo defensivo e educacional.
+> Documentação pessoal de estudos de Security Engineering, organizada pelas etapas (Foundation → Trainee → Expert → Master), complementada pelas documentações oficiais de cada tema. Conteúdo defensivo e educacional.
 
 Site: https://guerraana.github.io/security-engineer-world/
 

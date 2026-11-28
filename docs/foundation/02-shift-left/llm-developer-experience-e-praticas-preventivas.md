@@ -8,7 +8,7 @@ description: Segurança no dia a dia do desenvolvedor — IDE, repositório, pre
 # Desenvolvimento Seguro: Experiência do Desenvolvedor e Práticas Preventivas
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : da matéria-prima ao código — como a segurança se aplica no dia a dia do desenvolvedor (ambiente local, repositório, pre-commit hooks, linters, code review e políticas de repositório).
+Notas de estudo — da matéria-prima ao código — como a segurança se aplica no dia a dia do desenvolvedor (ambiente local, repositório, pre-commit hooks, linters, code review e políticas de repositório).
 :::
 
 ## Do projeto ao código

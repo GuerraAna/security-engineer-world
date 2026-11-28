@@ -8,7 +8,7 @@ description: Classificação de risco como etapa da gestão — probabilidade ×
 # Classificação de Risco: Conceitos e Aplicações
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : classificação de risco como etapa da gestão de riscos — critérios de avaliação, exemplos do cotidiano, aplicação em TI com SLAs de correção, contexto do ativo e risco aceitável.
+Notas de estudo — classificação de risco como etapa da gestão de riscos — critérios de avaliação, exemplos do cotidiano, aplicação em TI com SLAs de correção, contexto do ativo e risco aceitável.
 :::
 
 ## Gestão de risco × classificação de risco

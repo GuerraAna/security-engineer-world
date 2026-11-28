@@ -8,7 +8,7 @@ description: Gerenciamento de segredos — por que credenciais não vivem junto 
 # Secret Management e o uso de Secret Managers (Vaults)
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : gerenciamento de segredos — por que credenciais não devem viver junto ao código, como funcionam os Secret Managers (Vaults) e os riscos de armazenar informações sensíveis de forma insegura.
+Notas de estudo — gerenciamento de segredos — por que credenciais não devem viver junto ao código, como funcionam os Secret Managers (Vaults) e os riscos de armazenar informações sensíveis de forma insegura.
 :::
 
 ## O que é Secret Management

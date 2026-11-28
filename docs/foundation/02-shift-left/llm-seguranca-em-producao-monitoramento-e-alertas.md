@@ -8,7 +8,7 @@ description: Proteção em runtime — RASP e WAF, monitoramento contínuo de m�
 # Segurança em Produção, Monitoramento e Alertas
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : a fase final do desenvolvimento seguro — proteção em tempo real com RASP e WAF, monitoramento contínuo, alertas baseados em baseline e boas práticas de logs.
+Notas de estudo — a fase final do desenvolvimento seguro — proteção em tempo real com RASP e WAF, monitoramento contínuo, alertas baseados em baseline e boas práticas de logs.
 :::
 
 ## Segurança não termina no deploy

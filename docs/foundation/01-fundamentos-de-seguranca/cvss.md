@@ -8,7 +8,7 @@ description: Sistema de pontuação de severidade de vulnerabilidades — métri
 # CVSS — Sistema de Pontuação de Vulnerabilidades
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : o que é o CVSS, como funciona a pontuação, suas métricas, limitações e como usá-lo corretamente na priorização de correções.
+Notas de estudo — o que é o CVSS, como funciona a pontuação, suas métricas, limitações e como usá-lo corretamente na priorização de correções.
 :::
 
 ## O que é o CVSS

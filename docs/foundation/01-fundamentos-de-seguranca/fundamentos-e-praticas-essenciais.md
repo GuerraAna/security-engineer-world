@@ -8,7 +8,7 @@ description: Ativos, tríade CID, ciclo de vida da informação e responsabilida
 # Fundamentos e Práticas Essenciais de Segurança
 
 :::note Origem do conteúdo
-Aula 01 — Treinamento Security Engineer : conceitos fundamentais da Segurança da Informação.
+Notas de estudo — conceitos fundamentais da Segurança da Informação.
 :::
 
 ## Proteção de ativos como objetivo

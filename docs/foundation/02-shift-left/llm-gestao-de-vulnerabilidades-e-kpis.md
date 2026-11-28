@@ -8,7 +8,7 @@ description: Vulnerability Management como processo contínuo — centralizaçã
 # Gestão de Vulnerabilidades e KPIs
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : como centralizar os achados de todas as ferramentas de segurança num único fluxo de tickets, estruturar o workflow de triagem→correção→validação e medir o processo com KPIs.
+Notas de estudo — como centralizar os achados de todas as ferramentas de segurança num único fluxo de tickets, estruturar o workflow de triagem→correção→validação e medir o processo com KPIs.
 :::
 
 ## O processo contínuo

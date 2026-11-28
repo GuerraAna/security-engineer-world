@@ -8,7 +8,7 @@ description: Verificações de segurança após a compilação — Container Sca
 # Post-Build no CI/CD
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : a fase de Post-Build no pipeline — scan de imagens de containers, segurança da cadeia de suprimentos, scan de malware e assinatura de código para garantir integridade e autenticidade do artefato entregue.
+Notas de estudo — a fase de Post-Build no pipeline — scan de imagens de containers, segurança da cadeia de suprimentos, scan de malware e assinatura de código para garantir integridade e autenticidade do artefato entregue.
 :::
 
 ## O que é a fase de Post-Build

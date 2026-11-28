@@ -8,7 +8,7 @@ description: Análise de composição de software — scan de bibliotecas e depe
 # SCA — Software Composition Analysis
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : como o SCA escaneia bibliotecas e componentes de terceiros (especialmente open source), identifica vulnerabilidades conhecidas em dependências e por que é considerado a primeira prioridade na análise de segurança de aplicações.
+Notas de estudo — como o SCA escaneia bibliotecas e componentes de terceiros (especialmente open source), identifica vulnerabilidades conhecidas em dependências e por que é considerado a primeira prioridade na análise de segurança de aplicações.
 :::
 
 ## O que é SCA

@@ -8,7 +8,7 @@ description: Diferença entre fraqueza e vulnerabilidade, o papel de CWE, CVE e 
 # Vulnerabilidades e Fraquezas
 
 :::note Origem do conteúdo
-Aula 02 — Treinamento Security Engineer : diferença entre fraqueza e vulnerabilidade, o papel de CWE, CVE e CVSS, exemplo prático com SQL Injection e gestão de vulnerabilidades.
+Notas de estudo — diferença entre fraqueza e vulnerabilidade, o papel de CWE, CVE e CVSS, exemplo prático com SQL Injection e gestão de vulnerabilidades.
 :::
 
 ## Segurança da informação e proteção dos ativos

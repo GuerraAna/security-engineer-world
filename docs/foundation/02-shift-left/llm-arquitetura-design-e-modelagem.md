@@ -8,7 +8,7 @@ description: Como a segurança acompanha a transição da ideia para o design t�
 # Arquitetura, Design e Modelagem de Ameaças
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : continuação do tema Shift Left — como a segurança acompanha a transição da ideia para o design técnico, o papel da modelagem de ameaças com DFD e STRIDE, e a integração dos requisitos de segurança antes de qualquer linha de código.
+Notas de estudo — continuação do tema Shift Left — como a segurança acompanha a transição da ideia para o design técnico, o papel da modelagem de ameaças com DFD e STRIDE, e a integração dos requisitos de segurança antes de qualquer linha de código.
 :::
 
 ## Da ideia ao design técnico

@@ -8,7 +8,7 @@ description: Ferramentas de gestão de riscos — DefectDojo (open source, DevSe
 # Gestão de Riscos com DefectDojo e SD Elements
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : duas ferramentas para gestão de riscos e vulnerabilidades — o DefectDojo (open source, OWASP) centralizando achados dos scanners com SLA, e o SD Elements (Security Compass) estruturando threat modeling com suporte a compliance.
+Notas de estudo — duas ferramentas para gestão de riscos e vulnerabilidades — o DefectDojo (open source, OWASP) centralizando achados dos scanners com SLA, e o SD Elements (Security Compass) estruturando threat modeling com suporte a compliance.
 :::
 
 ## As duas ferramentas do bloco

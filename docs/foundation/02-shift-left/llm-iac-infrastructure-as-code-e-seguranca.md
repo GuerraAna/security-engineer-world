@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 # IaC — Infrastructure as Code e Segurança
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : o que é Infrastructure as Code, como configurações inadequadas viram Security Misconfiguration, ferramentas de análise estática para IaC (KICS, Checkov) e onde elas se encaixam na IDE e no pipeline CI/CD.
+Notas de estudo — o que é Infrastructure as Code, como configurações inadequadas viram Security Misconfiguration, ferramentas de análise estática para IaC (KICS, Checkov) e onde elas se encaixam na IDE e no pipeline CI/CD.
 :::
 
 ## O que é IaC

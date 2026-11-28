@@ -8,7 +8,7 @@ description: Testes dinâmicos e interativos — DAST caixa preta via requisiç�
 # DAST e IAST — Testes de Segurança em Aplicações
 
 :::note Origem do conteúdo
-Treinamento Security Engineer : conceitos, características, ferramentas e recomendações práticas dos testes DAST (Dynamic Application Security Testing) e IAST (Interactive Application Security Testing) no ciclo de desenvolvimento.
+Notas de estudo — conceitos, características, ferramentas e recomendações práticas dos testes DAST (Dynamic Application Security Testing) e IAST (Interactive Application Security Testing) no ciclo de desenvolvimento.
 :::
 
 ## Contexto: segurança com a aplicação rodando
