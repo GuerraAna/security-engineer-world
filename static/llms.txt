@@ -39,6 +39,10 @@ Site: https://guerraana.github.io/security-engineer-world/
 - [Conceitos e Exemplos](https://guerraana.github.io/security-engineer-world/docs/foundation/classificacao-de-risco/conceitos-e-exemplos): Classificação de risco — probabilidade × impacto × criticidade do ativo, SLAs de correção e risco aceitável.
 - [DefectDojo e SD Elements](https://guerraana.github.io/security-engineer-world/docs/foundation/classificacao-de-risco/defectdojo-e-sd-elements): Gestão de riscos — DefectDojo (open source) centraliza achados com SLA; SD Elements estrutura threat modeling e compliance.
 
+### 04 — Revisão e Simulado
+
+- [Quiz — 40 Questões](https://guerraana.github.io/security-engineer-world/docs/foundation/revisao-e-simulado/quiz-40-questoes): Simulado de revisão cobrindo os blocos 01–03 — Fundamentos, Shift Left e Classificação de Risco — com gabarito comentado.
+
 ## Fontes oficiais
 
 - OWASP: https://owasp.org
