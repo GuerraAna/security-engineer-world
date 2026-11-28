@@ -15,10 +15,10 @@ description: Simulado de 40 questões cobrindo os blocos 01–03 — Fundamentos
 
 ### 1. O que significa um score CVSS alto?
 
-a) A vulnerabilidade está resolvida
-b) A vulnerabilidade é tecnicamente crítica
-c) A vulnerabilidade é rara
-d) A vulnerabilidade tem impacto financeiro alto
+- a) A vulnerabilidade está resolvida
+- b) A vulnerabilidade é tecnicamente crítica
+- c) A vulnerabilidade é rara
+- d) A vulnerabilidade tem impacto financeiro alto
 
 <details>
 <summary>Gabarito</summary>
@@ -29,10 +29,10 @@ d) A vulnerabilidade tem impacto financeiro alto
 
 ### 2. O que diferencia uma fraqueza de uma vulnerabilidade?
 
-a) São sinônimos usados por órgãos diferentes
-b) A fraqueza sempre é explorada; a vulnerabilidade não
-c) A fraqueza é uma falha potencial (CWE); a vulnerabilidade é a falha concreta e explorável (CVE)
-d) A vulnerabilidade só existe em produção
+- a) São sinônimos usados por órgãos diferentes
+- b) A fraqueza sempre é explorada; a vulnerabilidade não
+- c) A fraqueza é uma falha potencial (CWE); a vulnerabilidade é a falha concreta e explorável (CVE)
+- d) A vulnerabilidade só existe em produção
 
 <details>
 <summary>Gabarito</summary>
@@ -43,10 +43,10 @@ d) A vulnerabilidade só existe em produção
 
 ### 3. Situação: o formulário de contato do site institucional de uma empresa permite envio de e-mails com conteúdo modificado (Email Injection). CVSS 6.4 (Médio), ainda sem exploração conhecida. Qual seria a resposta mais equilibrada?
 
-a) Solicitar mais informações antes de qualquer ação
-b) Priorizar como crítica e bloquear o formulário
-c) Corrigir o mais rápido possível para evitar abusos e manter a imagem da empresa
-d) Ignorar a falha, pois não houve exploração
+- a) Solicitar mais informações antes de qualquer ação
+- b) Priorizar como crítica e bloquear o formulário
+- c) Corrigir o mais rápido possível para evitar abusos e manter a imagem da empresa
+- d) Ignorar a falha, pois não houve exploração
 
 <details>
 <summary>Gabarito</summary>
@@ -57,10 +57,10 @@ d) Ignorar a falha, pois não houve exploração
 
 ### 4. Situação: um sistema legado ainda usa MD5 para armazenar senhas. Pouco utilizado e acessado apenas por operadores internos, mas com CVSS 7.0 (Alto). Qual medida deve ser adotada?
 
-a) Adiar indefinidamente por falta de criticidade operacional
-b) Ignorar, pois o sistema é usado por poucos usuários internos
-c) Corrigir a falha migrando para um algoritmo de hash mais seguro
-d) Substituir a aplicação por um sistema novo imediatamente
+- a) Adiar indefinidamente por falta de criticidade operacional
+- b) Ignorar, pois o sistema é usado por poucos usuários internos
+- c) Corrigir a falha migrando para um algoritmo de hash mais seguro
+- d) Substituir a aplicação por um sistema novo imediatamente
 
 <details>
 <summary>Gabarito</summary>
@@ -71,10 +71,10 @@ d) Substituir a aplicação por um sistema novo imediatamente
 
 ### 5. Vazamento de dados pessoais de clientes por falta de autorização viola principalmente qual pilar da tríade CID?
 
-a) Integridade
-b) Disponibilidade
-c) Confidencialidade
-d) Autenticidade
+- a) Integridade
+- b) Disponibilidade
+- c) Confidencialidade
+- d) Autenticidade
 
 <details>
 <summary>Gabarito</summary>
@@ -85,10 +85,10 @@ d) Autenticidade
 
 ### 6. O que deve ser considerado além do score CVSS para priorizar ações?
 
-a) Código-fonte da aplicação
-b) Data de descoberta da falha
-c) Contexto de negócio da vulnerabilidade
-d) Linguagem de programação
+- a) Código-fonte da aplicação
+- b) Data de descoberta da falha
+- c) Contexto de negócio da vulnerabilidade
+- d) Linguagem de programação
 
 <details>
 <summary>Gabarito</summary>
@@ -99,10 +99,10 @@ d) Linguagem de programação
 
 ### 7. Uma vulnerabilidade sozinha, sem ameaça capaz de explorá-la, representa:
 
-a) Risco alto imediato
-b) Um problema que não existe
-c) Um risco que ainda não se materializou — risco exige vulnerabilidade + ameaça + impacto
-d) Uma falha que dispensa correção
+- a) Risco alto imediato
+- b) Um problema que não existe
+- c) Um risco que ainda não se materializou — risco exige vulnerabilidade + ameaça + impacto
+- d) Uma falha que dispensa correção
 
 <details>
 <summary>Gabarito</summary>
@@ -113,10 +113,10 @@ d) Uma falha que dispensa correção
 
 ### 8. A segurança da informação é responsabilidade de:
 
-a) Apenas do time de segurança
-b) Apenas da alta direção
-c) Apenas dos desenvolvedores
-d) Todos os envolvidos — cada papel tem sua parte na proteção dos ativos
+- a) Apenas do time de segurança
+- b) Apenas da alta direção
+- c) Apenas dos desenvolvedores
+- d) Todos os envolvidos — cada papel tem sua parte na proteção dos ativos
 
 <details>
 <summary>Gabarito</summary>
@@ -129,10 +129,10 @@ d) Todos os envolvidos — cada papel tem sua parte na proteção dos ativos
 
 ### 9. O que significa aplicar "Shift Left" na segurança?
 
-a) Transferir a segurança para um time externo
-b) Trazer validações de segurança para as fases iniciais do ciclo de desenvolvimento
-c) Executar testes de segurança só em produção
-d) Deslocar o deploy para a esquerda no cronograma
+- a) Transferir a segurança para um time externo
+- b) Trazer validações de segurança para as fases iniciais do ciclo de desenvolvimento
+- c) Executar testes de segurança só em produção
+- d) Deslocar o deploy para a esquerda no cronograma
 
 <details>
 <summary>Gabarito</summary>
@@ -143,10 +143,10 @@ d) Deslocar o deploy para a esquerda no cronograma
 
 ### 10. Qual alternativa representa um exemplo de ameaça do tipo Tampering (STRIDE)?
 
-a) Um sistema envia um e-mail incorreto
-b) Um atacante altera o conteúdo de uma requisição
-c) Um atacante intercepta comunicação criptografada
-d) Um usuário se passa por outro
+- a) Um sistema envia um e-mail incorreto
+- b) Um atacante altera o conteúdo de uma requisição
+- c) Um atacante intercepta comunicação criptografada
+- d) Um usuário se passa por outro
 
 <details>
 <summary>Gabarito</summary>
@@ -157,10 +157,10 @@ d) Um usuário se passa por outro
 
 ### 11. No STRIDE, um usuário se passar por outra identidade é classificado como:
 
-a) Tampering
-b) Spoofing
-c) Repudiation
-d) Elevation of Privilege
+- a) Tampering
+- b) Spoofing
+- c) Repudiation
+- d) Elevation of Privilege
 
 <details>
 <summary>Gabarito</summary>
@@ -171,10 +171,10 @@ d) Elevation of Privilege
 
 ### 12. Um funcionário nega ter apagado registros e não existem logs que provem a ação. Qual ameaça do STRIDE está relacionada?
 
-a) Information Disclosure
-b) Denial of Service
-c) Repudiation
-d) Tampering
+- a) Information Disclosure
+- b) Denial of Service
+- c) Repudiation
+- d) Tampering
 
 <details>
 <summary>Gabarito</summary>
@@ -185,10 +185,10 @@ d) Tampering
 
 ### 13. Qual ferramenta gera automaticamente sugestões de ameaças com base em um diagrama?
 
-a) Apache JMeter
-b) GitLab CI/CD
-c) Microsoft Threat Modeling Tool
-d) OpenVAS
+- a) Apache JMeter
+- b) GitLab CI/CD
+- c) Microsoft Threat Modeling Tool
+- d) OpenVAS
 
 <details>
 <summary>Gabarito</summary>
@@ -199,10 +199,10 @@ d) OpenVAS
 
 ### 14. Na modelagem de ameaças, o DFD (Diagrama de Fluxo de Dados) serve para:
 
-a) Substituir o diagrama de classes do sistema
-b) Mapear como os dados circulam entre componentes e identificar fronteiras de confiança
-c) Documentar apenas o banco de dados
-d) Gerar casos de teste automatizados
+- a) Substituir o diagrama de classes do sistema
+- b) Mapear como os dados circulam entre componentes e identificar fronteiras de confiança
+- c) Documentar apenas o banco de dados
+- d) Gerar casos de teste automatizados
 
 <details>
 <summary>Gabarito</summary>
@@ -213,10 +213,10 @@ d) Gerar casos de teste automatizados
 
 ### 15. Qual das opções abaixo representa um requisito não funcional?
 
-a) O sistema deve exibir dados em tempo real
-b) O tempo de resposta não pode ultrapassar 3 segundos
-c) O cliente pode editar seu perfil
-d) O sistema deve autenticar o usuário antes do acesso
+- a) O sistema deve exibir dados em tempo real
+- b) O tempo de resposta não pode ultrapassar 3 segundos
+- c) O cliente pode editar seu perfil
+- d) O sistema deve autenticar o usuário antes do acesso
 
 <details>
 <summary>Gabarito</summary>
@@ -227,10 +227,10 @@ d) O sistema deve autenticar o usuário antes do acesso
 
 ### 16. O que caracteriza um bom requisito funcional com segurança incorporada?
 
-a) Um requisito separado do restante do sistema
-b) Um requisito voltado para o desempenho do sistema
-c) Um requisito que descreve como o sistema se comporta
-d) Um requisito que descreve o que o sistema faz com medidas de segurança
+- a) Um requisito separado do restante do sistema
+- b) Um requisito voltado para o desempenho do sistema
+- c) Um requisito que descreve como o sistema se comporta
+- d) Um requisito que descreve o que o sistema faz com medidas de segurança
 
 <details>
 <summary>Gabarito</summary>
@@ -241,10 +241,10 @@ d) Um requisito que descreve o que o sistema faz com medidas de segurança
 
 ### 17. Situação: um desenvolvedor criou um algoritmo próprio de criptografia para proteger dados sensíveis. Qual a melhor prática?
 
-a) Criptografar os dados apenas quando exportados
-b) Substituir por uma biblioteca padrão e auditada
-c) Utilizar o algoritmo próprio, desde que documentado
-d) Aplicar o algoritmo próprio com duplo fator de criptografia
+- a) Criptografar os dados apenas quando exportados
+- b) Substituir por uma biblioteca padrão e auditada
+- c) Utilizar o algoritmo próprio, desde que documentado
+- d) Aplicar o algoritmo próprio com duplo fator de criptografia
 
 <details>
 <summary>Gabarito</summary>
@@ -255,10 +255,10 @@ d) Aplicar o algoritmo próprio com duplo fator de criptografia
 
 ### 18. Situação: durante um Code Review, a revisão levou menos de 10 segundos e foi aprovada. O que essa situação pode indicar?
 
-a) Excelente produtividade
-b) Processo bem automatizado
-c) Uso eficiente de linters
-d) Ausência de validação adequada
+- a) Excelente produtividade
+- b) Processo bem automatizado
+- c) Uso eficiente de linters
+- d) Ausência de validação adequada
 
 <details>
 <summary>Gabarito</summary>
@@ -269,10 +269,10 @@ d) Ausência de validação adequada
 
 ### 19. Aprovar pull requests sem revisar o conteúdo pode comprometer:
 
-a) A performance da IDE
-b) A eficácia do versionamento
-c) A integridade e a segurança do código
-d) A frequência de deploys automatizados
+- a) A performance da IDE
+- b) A eficácia do versionamento
+- c) A integridade e a segurança do código
+- d) A frequência de deploys automatizados
 
 <details>
 <summary>Gabarito</summary>
@@ -283,10 +283,10 @@ d) A frequência de deploys automatizados
 
 ### 20. Situação: uma função lê arquivos do sistema e processa os dados diretamente, sem validação. Qual o principal problema?
 
-a) Aumenta o tempo de execução do programa
-b) Pode permitir execução de código malicioso
-c) Viola o padrão de nomenclatura de variáveis
-d) Gera redundância nos dados processados
+- a) Aumenta o tempo de execução do programa
+- b) Pode permitir execução de código malicioso
+- c) Viola o padrão de nomenclatura de variáveis
+- d) Gera redundância nos dados processados
 
 <details>
 <summary>Gabarito</summary>
@@ -297,10 +297,10 @@ d) Gera redundância nos dados processados
 
 ### 21. Situação: o time de segurança define regras de commit sem consultar os desenvolvedores, causando interrupções nos fluxos. Qual a abordagem mais eficaz?
 
-a) Deixar o time de desenvolvimento definir suas próprias regras
-b) Impor as regras sem alterações
-c) Remover os bloqueios e aplicar apenas revisão posterior
-d) Trabalhar em conjunto para alinhar regras eficazes e viáveis
+- a) Deixar o time de desenvolvimento definir suas próprias regras
+- b) Impor as regras sem alterações
+- c) Remover os bloqueios e aplicar apenas revisão posterior
+- d) Trabalhar em conjunto para alinhar regras eficazes e viáveis
 
 <details>
 <summary>Gabarito</summary>
@@ -311,10 +311,10 @@ d) Trabalhar em conjunto para alinhar regras eficazes e viáveis
 
 ### 22. Situação: desenvolvedores armazenam credenciais de banco de dados em arquivos `.env`, inclusive em produção. Qual a principal vantagem dessa decisão?
 
-a) Redução de risco de vazamento de dados sensíveis
-b) Aumento do desempenho da aplicação
-c) Permissão de acesso irrestrito aos dados
-d) Nenhuma das alternativas
+- a) Redução de risco de vazamento de dados sensíveis
+- b) Aumento do desempenho da aplicação
+- c) Permissão de acesso irrestrito aos dados
+- d) Nenhuma das alternativas
 
 <details>
 <summary>Gabarito</summary>
@@ -325,10 +325,10 @@ d) Nenhuma das alternativas
 
 ### 23. Por que segredos (senhas, tokens, chaves) não devem ficar junto ao código-fonte?
 
-a) Porque deixam o build mais lento
-b) Porque o versionamento os expõe no histórico, sem controle de acesso nem rotação prática
-c) Porque o compilador rejeita strings com caracteres especiais
-d) Porque secrets em código não funcionam em produção
+- a) Porque deixam o build mais lento
+- b) Porque o versionamento os expõe no histórico, sem controle de acesso nem rotação prática
+- c) Porque o compilador rejeita strings com caracteres especiais
+- d) Porque secrets em código não funcionam em produção
 
 <details>
 <summary>Gabarito</summary>
@@ -339,10 +339,10 @@ d) Porque secrets em código não funcionam em produção
 
 ### 24. O que caracteriza o SAST (Static Application Security Testing)?
 
-a) Testa a aplicação em execução via requisições HTTP
-b) Analisa o código-fonte sem executá-lo, antes da compilação
-c) Escaneia bibliotecas de terceiros por metadados
-d) Simula ataques com um agente no servidor
+- a) Testa a aplicação em execução via requisições HTTP
+- b) Analisa o código-fonte sem executá-lo, antes da compilação
+- c) Escaneia bibliotecas de terceiros por metadados
+- d) Simula ataques com um agente no servidor
 
 <details>
 <summary>Gabarito</summary>
@@ -353,10 +353,10 @@ d) Simula ataques com um agente no servidor
 
 ### 25. Qual o foco do SCA (Software Composition Analysis)?
 
-a) Analisar o código-fonte produzido internamente
-b) Verificar nomes e versões de bibliotecas e dependências (metadados), mapeando vulnerabilidades conhecidas
-c) Executar a aplicação em busca de falhas de runtime
-d) Assinar digitalmente os artefatos de build
+- a) Analisar o código-fonte produzido internamente
+- b) Verificar nomes e versões de bibliotecas e dependências (metadados), mapeando vulnerabilidades conhecidas
+- c) Executar a aplicação em busca de falhas de runtime
+- d) Assinar digitalmente os artefatos de build
 
 <details>
 <summary>Gabarito</summary>
@@ -367,10 +367,10 @@ d) Assinar digitalmente os artefatos de build
 
 ### 26. O que é um SBOM?
 
-a) Um protocolo de criptografia para builds
-b) Um scanner de vulnerabilidades em containers
-c) O inventário dos componentes que compõem o software (Software Bill of Materials)
-d) Uma métrica de severidade alternativa ao CVSS
+- a) Um protocolo de criptografia para builds
+- b) Um scanner de vulnerabilidades em containers
+- c) O inventário dos componentes que compõem o software (Software Bill of Materials)
+- d) Uma métrica de severidade alternativa ao CVSS
 
 <details>
 <summary>Gabarito</summary>
@@ -381,10 +381,10 @@ d) Uma métrica de severidade alternativa ao CVSS
 
 ### 27. Um security group com `0.0.0.0/0` liberando a porta 22 em um arquivo Terraform é um exemplo de:
 
-a) Vulnerabilidade de software no Terraform
-b) Security Misconfiguration — configuração inadequada, não bug de software
-c) Falha na linguagem HCL
-d) Ameaça do tipo Spoofing
+- a) Vulnerabilidade de software no Terraform
+- b) Security Misconfiguration — configuração inadequada, não bug de software
+- c) Falha na linguagem HCL
+- d) Ameaça do tipo Spoofing
 
 <details>
 <summary>Gabarito</summary>
@@ -395,10 +395,10 @@ d) Ameaça do tipo Spoofing
 
 ### 28. Qual a principal diferença entre WAF e RASP?
 
-a) WAF roda na IDE; RASP roda no CI
-b) WAF filtra requisições antes de chegarem à aplicação; RASP protege de dentro da aplicação em runtime
-c) São dois nomes para a mesma tecnologia
-d) RASP só funciona em desenvolvimento
+- a) WAF roda na IDE; RASP roda no CI
+- b) WAF filtra requisições antes de chegarem à aplicação; RASP protege de dentro da aplicação em runtime
+- c) São dois nomes para a mesma tecnologia
+- d) RASP só funciona em desenvolvimento
 
 <details>
 <summary>Gabarito</summary>
@@ -409,10 +409,10 @@ d) RASP só funciona em desenvolvimento
 
 ### 29. O DAST (Dynamic Application Security Testing) é caracterizado como teste de:
 
-a) Caixa branca — com acesso total ao código
-b) Caixa cinza — via agente no servidor
-c) Caixa preta — sem acesso ao código, via requisições HTTP
-d) Caixa verde — foco exclusivo em APIs
+- a) Caixa branca — com acesso total ao código
+- b) Caixa cinza — via agente no servidor
+- c) Caixa preta — sem acesso ao código, via requisições HTTP
+- d) Caixa verde — foco exclusivo em APIs
 
 <details>
 <summary>Gabarito</summary>
@@ -423,10 +423,10 @@ d) Caixa verde — foco exclusivo em APIs
 
 ### 30. Por que o DAST não deve ser executado diretamente em produção sem controles?
 
-a) Porque o scan é muito caro computacionalmente
-b) Porque pode afetar a disponibilidade e a integridade dos dados — o crawler faz requisições de verdade
-c) Porque produção não aceita requisições HTTP
-d) Porque o relatório sai em outro idioma
+- a) Porque o scan é muito caro computacionalmente
+- b) Porque pode afetar a disponibilidade e a integridade dos dados — o crawler faz requisições de verdade
+- c) Porque produção não aceita requisições HTTP
+- d) Porque o relatório sai em outro idioma
 
 <details>
 <summary>Gabarito</summary>
@@ -437,10 +437,10 @@ d) Porque o relatório sai em outro idioma
 
 ### 31. O IAST se diferencia do DAST principalmente porque:
 
-a) É um teste de caixa cinza — agente no servidor acessa memória e stack durante a interação com a aplicação
-b) Não precisa que a aplicação esteja rodando
-c) Funciona sem nenhuma interação com a aplicação
-d) É sempre gratuito e open source
+- a) É um teste de caixa cinza — agente no servidor acessa memória e stack durante a interação com a aplicação
+- b) Não precisa que a aplicação esteja rodando
+- c) Funciona sem nenhuma interação com a aplicação
+- d) É sempre gratuito e open source
 
 <details>
 <summary>Gabarito</summary>
@@ -451,10 +451,10 @@ d) É sempre gratuito e open source
 
 ### 32. Qual a principal vantagem do pentest contínuo integrado à sprint em relação ao pentest tradicional?
 
-a) Elimina a necessidade do Pentester
-b) Testes direcionados de 1–3h por funcionalidade, com o profissional conhecendo código, fluxos e arquitetura — mais precisão por menos custo que 40–100h genéricas
-c) Dispensa ambientes de teste
-d) Substitui todos os scanners automatizados
+- a) Elimina a necessidade do Pentester
+- b) Testes direcionados de 1–3h por funcionalidade, com o profissional conhecendo código, fluxos e arquitetura — mais precisão por menos custo que 40–100h genéricas
+- c) Dispensa ambientes de teste
+- d) Substitui todos os scanners automatizados
 
 <details>
 <summary>Gabarito</summary>
@@ -465,10 +465,10 @@ d) Substitui todos os scanners automatizados
 
 ### 33. Para que serve o ambiente de SQA (Security Quality Assurance)?
 
-a) Hospedar a aplicação em produção
-b) Executar testes intrusivos de segurança num espelho do QA, sem prejudicar testes funcionais, de carga e performance
-c) Substituir o ambiente de desenvolvimento
-d) Armazenar os relatórios de vulnerabilidades
+- a) Hospedar a aplicação em produção
+- b) Executar testes intrusivos de segurança num espelho do QA, sem prejudicar testes funcionais, de carga e performance
+- c) Substituir o ambiente de desenvolvimento
+- d) Armazenar os relatórios de vulnerabilidades
 
 <details>
 <summary>Gabarito</summary>
@@ -479,10 +479,10 @@ d) Armazenar os relatórios de vulnerabilidades
 
 ### 34. No post-build, o que a assinatura de commits (Commit Signing) garante?
 
-a) Que o código foi testado
-b) Que somente desenvolvedores autorizados realizaram as modificações no repositório
-c) Que a imagem de container é segura
-d) Que o binário não contém malware
+- a) Que o código foi testado
+- b) Que somente desenvolvedores autorizados realizaram as modificações no repositório
+- c) Que a imagem de container é segura
+- d) Que o binário não contém malware
 
 <details>
 <summary>Gabarito</summary>
@@ -493,10 +493,10 @@ d) Que o binário não contém malware
 
 ### 35. Um sistema recebe normalmente ~1.000 requisições por minuto. Um alerta bem configurado deve disparar quando:
 
-a) Qualquer requisição chegar
-b) O volume ultrapassar um limite fora do comportamento normal (ex.: 10.000 req/min)
-c) Apenas quando o servidor desligar
-d) Uma vez por dia, como rotina
+- a) Qualquer requisição chegar
+- b) O volume ultrapassar um limite fora do comportamento normal (ex.: 10.000 req/min)
+- c) Apenas quando o servidor desligar
+- d) Uma vez por dia, como rotina
 
 <details>
 <summary>Gabarito</summary>
@@ -509,10 +509,10 @@ d) Uma vez por dia, como rotina
 
 ### 36. Qual a relação correta entre gestão de risco e classificação de risco?
 
-a) São processos idênticos
-b) A classificação é uma etapa da gestão — avalia e categoriza os riscos identificados (alto, médio, baixo)
-c) A gestão é uma etapa da classificação
-d) Classificação substitui a gestão em empresas pequenas
+- a) São processos idênticos
+- b) A classificação é uma etapa da gestão — avalia e categoriza os riscos identificados (alto, médio, baixo)
+- c) A gestão é uma etapa da classificação
+- d) Classificação substitui a gestão em empresas pequenas
 
 <details>
 <summary>Gabarito</summary>
@@ -523,10 +523,10 @@ d) Classificação substitui a gestão em empresas pequenas
 
 ### 37. Quais critérios compõem a classificação de um risco?
 
-a) Apenas o score CVSS
-b) Probabilidade de ocorrência, impacto, facilidade de exploração e criticidade do ativo
-c) Apenas a data em que foi descoberto
-d) Apenas o custo da correção
+- a) Apenas o score CVSS
+- b) Probabilidade de ocorrência, impacto, facilidade de exploração e criticidade do ativo
+- c) Apenas a data em que foi descoberto
+- d) Apenas o custo da correção
 
 <details>
 <summary>Gabarito</summary>
@@ -537,10 +537,10 @@ d) Apenas o custo da correção
 
 ### 38. Um SLA de 24h para correção de vulnerabilidades é mais comum para:
 
-a) Bugs visuais em aplicações
-b) Riscos classificados como altos em sistemas críticos
-c) Riscos aceitos
-d) Vulnerabilidades que não foram avaliadas
+- a) Bugs visuais em aplicações
+- b) Riscos classificados como altos em sistemas críticos
+- c) Riscos aceitos
+- d) Vulnerabilidades que não foram avaliadas
 
 <details>
 <summary>Gabarito</summary>
@@ -551,10 +551,10 @@ d) Vulnerabilidades que não foram avaliadas
 
 ### 39. Situação: auditoria identifica uma aplicação interna com falha de segurança, mas com acesso restrito e sem exposição externa. Como esse risco deve ser classificado inicialmente?
 
-a) Risco alto, exigindo resposta imediata
-b) Risco crítico
-c) Risco nulo
-d) Risco baixo, com possibilidade de aceitação
+- a) Risco alto, exigindo resposta imediata
+- b) Risco crítico
+- c) Risco nulo
+- d) Risco baixo, com possibilidade de aceitação
 
 <details>
 <summary>Gabarito</summary>
@@ -565,10 +565,10 @@ d) Risco baixo, com possibilidade de aceitação
 
 ### 40. Situação: time de segurança recebe relatório de falha ao carregar bibliotecas de segurança num sistema de análise de crédito. Qual a abordagem correta?
 
-a) Remover o sistema do ar até revisão total
-b) Corrigir imediatamente sem avaliação
-c) Ignorar por não afetar clientes diretamente
-d) Avaliar o impacto e classificar o risco conforme uso e exposição
+- a) Remover o sistema do ar até revisão total
+- b) Corrigir imediatamente sem avaliação
+- c) Ignorar por não afetar clientes diretamente
+- d) Avaliar o impacto e classificar o risco conforme uso e exposição
 
 <details>
 <summary>Gabarito</summary>
